@@ -1,5 +1,3 @@
-# AquaTrack
-AquaTrack Project File
 AquaTrack 💧
 AquaTrack — Gamified Water Conservation Monitoring Portal
 
@@ -8,14 +6,18 @@ AquaTrack is a web-based water conservation portal designed around UN Sustainabl
 The project was developed as a demonstration of how a digital platform can encourage users to monitor consumption, report water wastage, and participate in conservation activities.
 
 🌊 Key Features
+
 1. Overview
+   
 SDG 6-focused landing page
 Water-conservation problem overview
 Target-user information
 Community impact indicators
 Explanation of the AquaTrack gamification workflow
 SDG 6 alignment cards
-2. Dashboard & Meter Reading
+
+3. Dashboard & Meter Reading
+   
 Enter previous and current meter readings
 Automatically calculate water consumption
 Convert consumption from cubic metres to litres
@@ -24,7 +26,8 @@ View consumption trends using charts
 Switch between weekly and monthly chart views
 Search meter-reading history
 Delete individual entries or clear the history
-3. Wastage / Leak Reporting
+
+5. Wastage / Leak Reporting
 Users can submit water-wastage reports with:
 
 Location
@@ -57,6 +60,7 @@ AquaTrack calculates and displays consumption information.
 Users can report leaks or other forms of water wastage.
 Conservation actions earn XP and contribute to streaks, badges, and rankings.
 The dashboard and community features provide feedback that encourages continued participation.
+
 🛠️ Technologies Used
 HTML5 — page structure and content
 The supplied website is implemented as a frontend application and loads its external UI libraries through CDNs.
@@ -82,6 +86,7 @@ The portal is designed with several user groups in mind:
 College students and dorm residents — monitor usage and participate in conservation challenges.
 Facility managers and plumbing teams — receive and track water-wastage reports.
 Residential communities and eco clubs — encourage collective conservation and compare community performance.
+
 🎓 Project Context
 AquaTrack was developed as a Water Conservation Portal** project. The team's overall concept combines several possible approaches, including smart monitoring, leak detection, gamification, wastage reporting, predictive analytics, and automated water-management ideas. The final selected web solution is the AquaTrack Gamified Water Conservation Monitoring Portal.
 
@@ -93,7 +98,9 @@ Leak detection is based on user reporting rather than physical sensors.
 The portal does not provide a production backend or multi-user authentication.
 Report updates are demonstrated within the web interface rather than through a connected facility-management system.
 The supplied project presents the website as a working demonstration rather than a deployed water-management infrastructure.
+
 🚀 Possible Future Enhancements
+
 Connect real water meters or IoT sensors.
 Add user authentication and role-based access.
 Store data in a cloud database.
@@ -103,6 +110,7 @@ Add facility-admin dashboards.
 Integrate real campus/residential water data.
 Add more detailed analytics and forecasting.
 Deploy the portal as a production web application.
+
 📜 References
 The website includes links/references to:
 
@@ -110,12 +118,17 @@ United Nations SDG 6 — Clean Water and Sanitation
 ISO 14001 Environmental Management
 EPA WaterSense guidelines
 Chart.js documentation
-👨‍💻 Team
-Team 6
+
+👨‍💻 Team 6
 
 Salini Saju
+
 Sam Paul Peter
+
 Samayi A S
+
 Sampreet
+
 Santo Joseph
+
 Sara Mary
